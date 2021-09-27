@@ -11,5 +11,9 @@ def count_until_zero(num)
   end
 end
 
-my_n = gets.chomp.to_i
-count_until_zero(my_n)
+count_until_zero(1999)
+count_until_zero(0)
+count_until_zero(1588)
+count_until_zero(100)
+count_until_zero(9)
+count_until_zero(166)
